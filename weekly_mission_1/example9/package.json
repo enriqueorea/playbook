@@ -1,0 +1,17 @@
+{
+  "name": "pokemon",
+  "version": "1.0.0",
+  "description": "ejercicio curso backen",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "pokemon",
+    "js",
+    "git",
+    "node.js"
+  ],
+  "author": "Luis Enrique Orea Acosta",
+  "license": "ISC"
+}
