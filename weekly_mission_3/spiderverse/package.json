@@ -1,0 +1,20 @@
+{
+  "name": "spiderverse",
+  "version": "1.0.0",
+  "description": "Diseno de software con TDD",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node ./node_modules/jest/bin/jest.js --runInBand"
+  },
+  "keywords": [
+    "TDD",
+    "JS",
+    "JEST"
+  ],
+  "author": "Luis Enrique Orea",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
