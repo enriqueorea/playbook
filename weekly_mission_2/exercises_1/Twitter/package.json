@@ -1,0 +1,21 @@
+{
+  "name": "twitter",
+  "version": "1.0.0",
+  "description": "TDD de el ejecicio Twitter",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node ./node_modules/jest/bin/jest.js --runInBand"
+  },
+  "keywords": [
+    "TDD",
+    "JS"
+  ],
+  "author": "Luis Enrique Orea Acosta",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
